@@ -1,6 +1,6 @@
 # 三目並べ
 
-![アプリの画像](./img/%E4%B8%89%E7%9B%AE%E4%B8%A6%E3%81%B9.png)
+![三目並べ](https://user-images.githubusercontent.com/127412829/229790280-bc5f177d-aa93-4db9-9df0-a550ecc85890.png)
 
 ### 遊び方
 1. フィールドに３×３のマスがある
